@@ -1,1 +1,1 @@
-# WAV_File_Visualizer
+WAV file display
